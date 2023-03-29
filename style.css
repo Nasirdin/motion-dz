@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(255, 255, 224);
+}
+
+.title {
+  font-size: 18px;
+  color: red;
+}
+.title-h2 {
+  font-size: 16px;
+}
